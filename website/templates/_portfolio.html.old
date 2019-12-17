@@ -1,0 +1,48 @@
+<!-- Portfolio Section -->
+
+
+
+
+<div id="portfolio">
+  <div class="container">
+    <div class="section-title">
+      <h2>Commonly Used Links</h2>
+    </div>
+    <div class="row">
+      <div class="portfolio-items">
+        <div class="col-sm-6 col-md-4">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="https://en.m.wikipedia.org/wiki/Del_in_cylindrical_and_spherical_coordinates" title="Nabla Operator">
+              <div class="hover-text">
+                <div class="overlay-caption">
+                  <div class="overlay-content">
+                    <h4>Nabla Operator in Various Coordinates</h4>
+                  </div>
+                </div>
+              </div>
+              <img src="img/nabla.svg" class="img-responsive" alt="Nabla Operator in Various Coordinates" width="300px"></a>
+	    </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="http://93.174.95.27/" title="Library Genesis">
+              <div class="hover-text">
+                <div class="overlay-caption">
+                  <div class="overlay-content">
+                    <h4>Library Genesis</h4>
+                  </div>
+                </div>
+              </div>
+              <img src="img/library_genesis.svg" class="img-responsive" alt="Library Genesis" width="160px"></a>
+	    </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
